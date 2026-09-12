@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project  
 
-Welcome to the **Data Warehouse and Analytics Project** repository!  
+**Data Warehouse and Analytics Project** 
 This project demonstrates my practice and learning journey in building a modern data warehouse and analytics solution. The goal is to consolidate raw sales data into a structured data warehouse and generate actionable business insights through SQL-based reporting and analytics.  
 <img width="1205" height="614" alt="Screenshot 2025-08-27 222614" src="https://github.com/user-attachments/assets/2815d08b-48c7-45cf-b362-2510c42e6cdb" />
 
@@ -55,11 +55,4 @@ It does **not** redistribute course materials but serves as a **personal portfol
 This repository is published under the [MIT License](LICENSE).  
 You are free to use, modify, and share this project with proper attribution.  
 
----
 
-## 👨‍💻 About Me  
-
-Hi there! I’m **Mohammad Faryadi**, a Master of Global Business student in Toronto with a strong interest in **data analytics, data engineering, and business intelligence**.  
-I’m actively building hands-on projects with SQL, Power BI, and data warehousing to sharpen my analytics and decision-making skills.  
-
-Feel free to connect with me! 🚀  
